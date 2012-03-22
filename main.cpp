@@ -5,7 +5,6 @@
 #	define __USE_GNU
 #endif
 
-#include <demangle.h>
 #include <dlfcn.h>
 #include <typeinfo>
 #include <QtCore/QMetaObject>
